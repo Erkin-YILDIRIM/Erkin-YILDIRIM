@@ -3,7 +3,7 @@
 
 - 🔭 i now am focusing on **linux kernel development.**
 
-- 🌱 i am currently learning **ansi c, linux bash, linux kernel development, stm32.**
+- 🌱 i am currently learning **ansi c, linux bash, linux kernel development and stm32.**
 
 - 📝 more information about me: [erkin-yildirim.com](erkin-yildirim.com)
 
