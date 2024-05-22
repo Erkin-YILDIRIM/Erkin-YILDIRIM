@@ -1,9 +1,9 @@
 <h1 align="center">my name is erkin</h1>
 <h3 align="center">a computer engineering student.</h3>
 
-- 🔭 i now am focusing on **linux kernel development.**
+- 🔭 i now am focusing on **artificial intelligence.**
 
-- 🌱 i am currently learning **ansi c, linux bash, linux kernel development and stm32.**
+- 🌱 i am currently learning **c, linux bash, java, python.**
 
 - 📝 more information about me: [erkin-yildirim.com](erkin-yildirim.com)
 
